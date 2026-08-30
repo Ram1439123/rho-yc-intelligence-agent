@@ -26,7 +26,7 @@ app = Flask(__name__)
 
 # Algolia API Parameters for YC Directory Access
 ALGOLIA_APP_ID = "45BWZJ1SGC"
-ALGOLIA_API_KEY = "9d2c10b784a9e223c9ce05312788e228"
+ALGOLIA_API_KEY = "YOUR_ALGOLIA_API_KEY"
 ALGOLIA_URL = f"https://{ALGOLIA_APP_ID}-dsn.algolia.net/1/indexes/YCCompany_production/query"
 
 def init_db():
