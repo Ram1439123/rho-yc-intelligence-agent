@@ -126,3 +126,5 @@ The structure of the monitoring functions in `main.py` is modular, allowing easy
 ```
 
 ```
+
+"Note: For security best practices, API keys have been replaced with placeholders. To run the Algolia search feature locally, insert an Algolia API key in the placeholder location."
